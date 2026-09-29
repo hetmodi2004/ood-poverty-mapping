@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision>=0.15
+wilds
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+jupyter
+pyyaml
+tqdm
